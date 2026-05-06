@@ -6,9 +6,12 @@ A simple and beginner-friendly Arduino project that measures real-time temperatu
 
 ## 📸 Project Preview
 
-![Project Image](output.jpg)
+![Project Image](project.jpg)
 
-![Circuit Diagram](circuit.jpg)
+![Circuit Diagram](CD.jpg)## 
+🎥 YouTube Demo
+[Watch Demo Video](https://youtube.com/shorts/FKAMFJkV61E?si=GZupgGJCulnriWsy)
+
 
 ---
 
